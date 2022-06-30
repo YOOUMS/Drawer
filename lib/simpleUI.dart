@@ -27,7 +27,7 @@ class SimpleUI extends StatelessWidget {
                 backgroundImage: NetworkImage(
                     "https://avatars.githubusercontent.com/u/67508677?v=4"),
               ),
-              accountName: Text("Yusuf Abu Msabeh"),
+              accountName: Text("Mohammed Abu Mutlq"),
               accountEmail: Text("yussef.msabeh@gmail.com")),
           ListTile(
             leading: Icon(Icons.home),
